@@ -28,3 +28,7 @@ The expected results of this study include improved image deblurring performance
 
 ## Intellectual Merit and Practical Impacts
 This research will contribute to the field of image restoration by testing the WEDDM in new contexts---specifically, near-field image deblurring---and exploring its performance in more realistic conditions, such as higher noise levels and dynamic blur. By training and evaluating WEDDM on the GS-Blur dataset, this study will help bridge the gap between synthetic training data and real-world image restoration tasks, pushing the boundaries of deblurring models beyond traditional applications.
+
+
+## Poster 0224 version
+![WEDDM Architecture](https://github.com/Rising-Stars-by-Sunshine/LinZhang_FinalProject_25Spr_STATS201/blob/main/poster_0224ver.png?raw=true)
