@@ -24,8 +24,8 @@ This project, _Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Da
 ----------------------------------------
 
 ## Repository Structure
-- **data/**: Contains the dataset, including blurry and sharp images.
-- **code/**: Contains the Python code, including Jupyter Notebooks for models training (`Simulated_WEDDM.ipynb`&`GSBlur_MPRNet.ipynb`&`AddNoise_GSBlur_10WEDDM.ipynb`&`AddNoise_GSBlur_50WEDDM.ipynb`
+- **Data/**: Contains the dataset, including blurry and sharp images.
+- **Code/**: Contains the Python code, including Jupyter Notebooks for models training (`Simulated_WEDDM.ipynb`&`GSBlur_MPRNet.ipynb`&`AddNoise_GSBlur_10WEDDM.ipynb`&`AddNoise_GSBlur_50WEDDM.ipynb`
 ), results visualization (`ResultsVisualization.ipynb`), and appendix (`Appendix.ipynb`).
 - **Report**
 - **Poster**: For outcome introduction purpose.
