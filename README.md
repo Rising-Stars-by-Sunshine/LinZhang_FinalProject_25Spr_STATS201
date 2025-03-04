@@ -3,6 +3,20 @@
 ## Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Dataset
 
 ----------------------------------------
+## Table of Contents
+- [Disclaimer](#disclaimer)
+- [Repository Structure](#repository-structure)
+- [Prerequisites](#prerequisites)
+  - [1. General Requirements](#1-general-requirements)
+  - [2. Required Dataset Download](#2-required-dataset-download)
+  - [3. Python Dependencies—Required Libraries](#3-python-dependencies--required-libraries)
+- [Navigation Instructions](#navigation-instructions)
+- [Report](#report)
+- [Poster](#poster)
+- [Acknowledgements](#acknowledgments)
+- [Statement of Intellectual and Professional Growth](#statement-of-intellectual-and-professional-growth)
+
+----------------------------------------
 
 ## Disclaimer
 This project, _Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Dataset_, is the Final Project for **STATS 201: Introduction to Machine Learning for Social Science**, instructed by **Professor Luyao Zhang** at Duke Kunshan University in Autumn 2025.
@@ -13,7 +27,8 @@ This project, _Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Da
 - **data/**: Contains the dataset, including blurry and sharp images.
 - **code/**: Contains the Python code, including Jupyter Notebooks for models training (`Simulated_WEDDM.ipynb`&`GSBlur_MPRNet.ipynb`&`AddNoise_GSBlur_10WEDDM.ipynb`&`AddNoise_GSBlur_50WEDDM.ipynb`
 ), results visualization (`ResultsVisualization.ipynb`), and appendix (`Appendix.ipynb`).
-- **poster**: For outcome introduction purpose.
+- **Report**
+- **Poster**: For outcome introduction purpose.
 - **README.md**: This file, containing setup instructions.
 
 ----------------------------------------
