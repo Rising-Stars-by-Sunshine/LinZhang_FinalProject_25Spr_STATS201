@@ -5,7 +5,7 @@
 ----------------------------------------
 
 ## Disclaimer
-This project, _Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Dataset_, is the Final Project for **STATS 201: Introduction to Machine Learning for Social Science**, instructed by **Professor Luyao Zhang** at Duke Kunshan University.
+This project, _Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Dataset_, is the Final Project for **STATS 201: Introduction to Machine Learning for Social Science**, instructed by **Professor Luyao Zhang** at Duke Kunshan University in Autumn 2025.
 
 ----------------------------------------
 
@@ -136,6 +136,14 @@ All the mentioned Jupyter notebook files can be found in the `Code` folder.
 ----------------------------------------
 
 ## Acknowledgments
+
+
+
+
+----------------------------------------
+
+## Statement of Intellectual and Professional Growth
+
 
 
 
