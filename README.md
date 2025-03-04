@@ -15,9 +15,12 @@ This project, _Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Da
 ## Prerequisites
 
 ### 1. General Requirements
-- **Python 3.8 or higher**
-- **Google Colab** (Cloud environment setup)
-- **Internet connection** for installing dependencies
+To run the code and reproduce the results, ensure you have the following setup:
+
+- **Python 3.8 or higher**: The code is compatible with Python 3.8 and above.
+- **Jupyter Notebook**: All experiments and visualizations are implemented in Jupyter Notebook.
+- **Internet connection**: Required for installing necessary dependencies and libraries.
+
 
 ### 2. Required Dataset Download
 Please refer to the README.md file in Data/ for downloading GS-Blur dataset and store it properly.
