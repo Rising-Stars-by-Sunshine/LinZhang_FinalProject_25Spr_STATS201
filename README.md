@@ -2,6 +2,8 @@
 
 ## Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Dataset
 
+----------------------------------------
+
 ## Disclaimer
 This project, _Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Dataset_, is the Final Project for **STATS 201: Introduction to Machine Learning for Social Science**, instructed by **Professor Luyao Zhang** at Duke Kunshan University.
 
@@ -118,6 +120,29 @@ All the mentioned Jupyter notebook files can be found in the `Code` folder.
 
 3. **Generating Saliency Maps:**
    - The `Appendix.ipynb` file contains code to generate saliency maps, which visualize the important features influencing the model’s predictions. This can be useful for understanding the decision-making process of the models.
+
+----------------------------------------
+
+## Report
+
+
+
+----------------------------------------
+
+## Poster
+
+
+
+----------------------------------------
+
+## Acknowledgments
+
+
+
+
+
+
+
 
 
 
