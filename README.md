@@ -5,12 +5,16 @@
 ## Disclaimer
 This project, _Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Dataset_, is the Final Project for **STATS 201: Introduction to Machine Learning for Social Science**, instructed by **Professor Luyao Zhang** at Duke Kunshan University.
 
+----------------------------------------
+
 ## Repository Structure
 - **data/**: Contains the dataset, including blurry and sharp images.
 - **code/**: Contains the Python code, including Jupyter Notebooks for models training (`Simulated_WEDDM.ipynb`&`GSBlur_MPRNet.ipynb`&`AddNoise_GSBlur_10WEDDM.ipynb`&`AddNoise_GSBlur_50WEDDM.ipynb`
 ), results visualization (`ResultsVisualization.ipynb`), and appendix (`Appendix.ipynb`).
 - **poster**: For outcome introduction purpose.
 - **README.md**: This file, containing setup instructions.
+
+----------------------------------------
 
 ## Prerequisites
 
@@ -73,6 +77,8 @@ git clone https://github.com/swz30/MPRNet.git
 cd MPRNet
 ```
 After installing these libraries, you should be able to run the Jupyter Notebook scripts without missing dependencies.
+
+----------------------------------------
 
 ## Navigation Instructions
 The study follows a comparative experimental design, where different models are trained on varying datasets and their performance is evaluated using PSNR, SSIM, and LPIPS scores. Specifically, three models are trained and tested:
