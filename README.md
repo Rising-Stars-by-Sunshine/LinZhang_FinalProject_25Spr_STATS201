@@ -126,23 +126,48 @@ All the mentioned Jupyter notebook files can be found in the `Code` folder.
 ## Report
 [LinZhang_FinalProjectReport](https://github.com/Rising-Stars-by-Sunshine/LinZhang_FinalProject_25Spr_STATS201/blob/29133fbec2447b9ebb26ef1726c0dbb584a69f2a/LinZhang_FinalProjectReport.pdf)
 
-----------------------------------------
-
 ## Poster
-
+[LinZhang_FinalProjectPoster]()
 
 
 ----------------------------------------
 
 ## Acknowledgments
+I would like to express my gratitude to the following individuals and resources for their invaluable contributions to this project:
+
+- **Professor [Luyao Zhang]**: Thank you for your guidance, insightful feedback, and continuous support throughout this project. Your expertise and encouragement have been instrumental in shaping this work.
+- **My Peers**: I am deeply thankful to my classmates for their constructive peer reviews and suggestions, which helped refine and improve the quality of this project.
+- **Open-Source Community**: This project benefited greatly from the wealth of knowledge and resources provided by the open-source community. Special thanks to the developers and researchers who shared their code, datasets, and tools publicly.
+- **AI Tools**: I also acknowledge the use of AI tools for assisting in code development, debugging, and documentation. These tools significantly enhanced the efficiency and quality of this work.
+
+Your collective support and contributions have been essential to the success of this project. Thank you!
 
 
-
-
-----------------------------------------
 
 ## Statement of Intellectual and Professional Growth
+This project has been a transformative learning experience, significantly contributing to both my intellectual and professional development. Below are some key reflections on my growth throughout this journey:
 
+1. **Technical Skills**:
+   - I gained hands-on experience with advanced machine learning models, particularly in image deblurring tasks, and deepened my understanding of evaluation metrics such as PSNR, SSIM, and LPIPS.
+   - Working with Jupyter Notebooks and Python allowed me to refine my coding practices, improve my debugging skills, and learn efficient ways to manage and visualize data.
+
+2. **Problem-Solving and Critical Thinking**:
+   - The challenges encountered during model training and evaluation, such as unexpected results or long training times, taught me the importance of iterative problem-solving and adaptability.
+   - Analyzing why certain models underperformed (e.g., the 10-epoch WEDDM model) and devising solutions (e.g., extending training to 50 epochs) enhanced my ability to critically assess and improve my work.
+
+3. **Collaboration and Feedback**:
+   - Engaging in peer reviews and incorporating feedback from classmates helped me appreciate the value of diverse perspectives and constructive criticism in refining my project.
+   - Collaborating with my professor and peers also improved my communication skills, particularly in explaining technical concepts and justifying methodological choices.
+
+4. **Exposure to Open-Source Tools and AI Technologies**:
+   - Leveraging open-source libraries and AI tools not only accelerated my workflow but also exposed me to the collaborative and innovative spirit of the open-source community.
+   - This experience inspired me to contribute back to the community by sharing my work and findings.
+
+5. **Professional Growth**:
+   - Managing the project from start to finish—from planning and implementation to evaluation and documentation—taught me valuable project management skills, including time management and prioritization.
+   - The experience of writing detailed reports and creating visualizations to present my results has strengthened my ability to communicate complex ideas clearly and effectively.
+
+Overall, this project has been a cornerstone of my academic and professional journey, equipping me with the skills, confidence, and mindset to tackle future challenges in machine learning and beyond. I am excited to continue building on this foundation as I progress in my career.
 
 
 
