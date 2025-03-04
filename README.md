@@ -18,6 +18,9 @@ This project, _Wavelet-Enhanced Deblurring Diffusion Model (WEDDM) on GS-Blur Da
 - **Google Colab** (Cloud environment setup)
 - **Internet connection** for installing dependencies
 
+### Required Dataset Download
+Please refer to the README.md file in Data/ for downloading GS-Blur dataset and store it properly.
+
 ### Python Dependencies--Required Libraries
 Before running the provided Jupyter Notebook Python scripts, ensure that the following libraries are installed on your computer. The following Python libraries are necessary for executing the provided scripts:
 
