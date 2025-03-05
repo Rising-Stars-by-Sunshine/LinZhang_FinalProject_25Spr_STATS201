@@ -142,7 +142,7 @@ All the mentioned Jupyter notebook files can be found in the `Code` folder.
 [LinZhang_FinalProjectReport](https://github.com/Rising-Stars-by-Sunshine/LinZhang_FinalProject_25Spr_STATS201/blob/29133fbec2447b9ebb26ef1726c0dbb584a69f2a/LinZhang_FinalProjectReport.pdf)
 
 ## Poster
-[LinZhang_FinalProjectPoster]()
+[LinZhang_FinalProjectPoster](https://github.com/Rising-Stars-by-Sunshine/LinZhang_FinalProject_25Spr_STATS201/blob/7efe92a90bbb7f56f97bd73ed8f7172467046d8e/LinZhang_PosterFinalVer.pdf)
 
 
 ----------------------------------------
